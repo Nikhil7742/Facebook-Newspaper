@@ -189,7 +189,6 @@ main{
 }
 .top-section-right{
     width: 600px;
-    /* background-color: pink; */
     height:auto;
 }
 .right1{
@@ -223,7 +222,6 @@ main{
         color: #666;
         line-height: 25px;
 }
-/* gif-section-start */
 .gif{
     width: 100%;
     display: flex;
